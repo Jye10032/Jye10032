@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jye10032&hide_rank=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jye10032&show_icons=true&rank_icon=github&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Jye10032/Jye10032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
