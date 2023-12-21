@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I'm currently study in Northeastern University (China),
+- 🔭 I'm currently studying in Northeastern University (China),
 - 🌱 I’m currently learning front-end,
 - 💬 I aspire to become a front-end engineer and a product manager，
 - 📫 My QQ is: 736891807 (@qq.com),
