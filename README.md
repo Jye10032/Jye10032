@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning front-end,
 - 💬 I aspire to become a front-end engineer and a product manager，
 - 📫 My QQ is: 736891807 (@qq.com),
-- ⚡ LeetCode:[My leetcode profile](https://leetcode.cn/u/ji-xie-4/).
+- ⚡ LeetCode: [My leetcode profile](https://leetcode.cn/u/ji-xie-4/).
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jye10032&show_icons=true&rank_icon=github&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
