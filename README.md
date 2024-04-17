@@ -2,7 +2,7 @@
 - 🔭 I'm currently studying in Northeastern University (China),
 - 🌱 I’m currently learning front-end,
 - 💬 I aspire to become a front-end engineer and a product manager，
-- 👯 my blog is www.gyming.xyz
+- 👯 my blog is www.gyming.xyz（notyet）
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jye10032&show_icons=true&rank_icon=github&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
