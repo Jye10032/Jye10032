@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I'm currently studying in Northeastern University (China),
+- 🔭 I'm currently studying in City University of Hong Kong,
 - 🌱 I’m currently learning front-end,
 - 💬 I aspire to become a front-end engineer and a product manager，
 - 👯 my blog（is building） is www.gyming.xyz  
