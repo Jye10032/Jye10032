@@ -4,6 +4,7 @@
 - 💬 I aspire to become a front-end engineer and a product manager，
 - 👯 my blog（is building） is www.gyming.xyz
 - 📫 How to reach me: QQ: 736891807
+- 🌱 https://dogapi.cc/ claude opus4.6 api-key on sale
 
 <!--
 **Jye10032/Jye10032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
