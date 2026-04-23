@@ -2,9 +2,9 @@
 - 🔭 I'm currently studying in City University of Hong Kong,
 - 🌱 I’m currently learning front-end,
 - 💬 I aspire to become a front-end engineer and a product manager，
-- 👯 my blog（is building） is www.gyming.xyz
+- 👯 my blog（is building） is misaka.design
 - 📫 How to reach me: QQ: 736891807
-- 🌱 https://dogapi.cc/ claude opus4.6 api-key on sale
+- 🌱 https://dogapi.cc/ codex gpt-5.4 claude opus4.6 api-key on sale
 
 <!--
 **Jye10032/Jye10032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
