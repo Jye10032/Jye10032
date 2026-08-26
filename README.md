@@ -1,23 +1,14 @@
-### Hi there 👋
-- 🔭 I'm currently studying in City University of Hong Kong,
-- 🌱 I’m currently learning front-end,
-- 💬 I aspire to become a front-end engineer and a product manager，
-- 👯 my blog（is building） is misaka.design
-- 📫 How to reach me: QQ: 736891807
-- 🌱 https://dogapi.cc/ codex gpt-5.4 claude opus4.6 api-key on sale
+# Hi, I'm Jye 👋
 
-<!--
-**Jye10032/Jye10032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an agent application and frontend engineer focused on building practical AI products, developer tools, and reliable user experiences.
 
-Here are some ideas to get you started:
+- 🔭 Studying at City University of Hong Kong
+- 🌱 Building agent applications, knowledge systems, and frontend infrastructure
+- 👯 Writing at [misaka.design](https://misaka.design/)
+- 💬 API service: [DogAPI](https://www.dogapi.cc/) for GPT Pro, Claude, and Grok
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+## Selected Merged Pull Requests
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+- [OpenViking #2203](https://github.com/volcengine/OpenViking/pull/2203) - Improved remote import reliability by detecting binary media, document, and ZIP-based payloads after download.
+- [Axios #7260](https://github.com/axios/axios/pull/7260) - Prevented module-load `TypeError`s by deferring access to global runtime objects in the Fetch adapter.
+- [Ant Design #55785](https://github.com/ant-design/ant-design/pull/55785) - Fixed incorrect colorful Notification backgrounds when CSS variables are disabled.
